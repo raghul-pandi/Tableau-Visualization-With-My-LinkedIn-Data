@@ -2,7 +2,7 @@
 
 As a data analyst, I am always looking for ways to improve my skills. So this time I thought of making a Tableau dashboard showing the most interesting metrics of my very own LinkedIn Data 
 
-⬇️ Check out mine here ⬇️
+Check out mine here:
 https://lnkd.in/eJ58U4Rd
 
 What insights did I derive from my LinkedIn Data?
